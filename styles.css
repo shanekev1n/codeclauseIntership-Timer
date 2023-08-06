@@ -1,0 +1,31 @@
+.timerBtn{
+    width: 80px;
+    height: 25px; 
+    border-radius: 20px;
+    font-family:Roboto Bol,'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    background-color: transparent;
+    cursor: pointer;
+}
+#timerDisp{
+    font-family:  Digital-7, 'Franklin Gothic', 'Arial Narrow', Arial, sans-serif;
+    font-size: 62px;
+}
+
+#timerContainer{
+    width: 500px;
+    text-align: center;
+    margin: auto;
+    padding: 30px;
+    border-style: solid;
+    border-radius: 60px;
+    border-color : #000000;
+    margin-top: 250px;
+}
+
+body{
+    background-image:url("1.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
